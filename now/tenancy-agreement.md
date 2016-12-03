@@ -1,6 +1,6 @@
 ### Rent
 * Monthly £500
-- Payable by direct
+- Paid by direct debit on the first of the month
 - Minimum tenancy 6 months
 
 ### Deposit
