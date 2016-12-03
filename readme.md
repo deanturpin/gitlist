@@ -1,7 +1,4 @@
-This is a list
+### This is a list about gitlist
 
-- [ ] one
-- [ ] two
-- [ ] three
-- [ ] four
-- [ ] five
+- [ ] trees of tasks
+- [ ] auto commit text includes platform: "pushed from Dean's mobile"
