@@ -1,0 +1,2 @@
+- auto commit from each platform
+- commit text includes platform: "pushed from Dean's mobile"
