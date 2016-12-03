@@ -2,4 +2,4 @@
 
 - [x] Ring EE for PAC
 - [ ] Go to Three
-- [ ] Wood case from Apple store?
+- [ ] Wood case? https://grovemade.com/product/walnut-iphone-case/?initial=161
