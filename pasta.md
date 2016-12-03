@@ -1,2 +1,2 @@
-- [ ] onions
-- [ ] carrots
+- [x] onions
+- [x] carrots
