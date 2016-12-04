@@ -18,3 +18,4 @@
 ### Misc
 - Cooking
 - Smoking
+- Working hours
