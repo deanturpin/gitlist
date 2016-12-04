@@ -2,7 +2,7 @@
 - Pay up to the end of the first month
 - And then £500 per month
 - Paid by direct debit on the first of the month
-- Minimum tenancy TBD
+- 6 months minimum tenancy
 
 ### Deposit
 - £250
@@ -14,8 +14,3 @@
 ### Notice period
 - One month for landlord
 - One month for tenant
-
-### Misc
-- Cooking
-- Smoking
-- Working hours
