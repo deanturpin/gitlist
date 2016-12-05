@@ -1,9 +1,22 @@
 #!/bin/bash
 
-if [[ $# == 0 ]]; then
+# Check flags
+if [[ $1 == "schedule" ]]; then
 
-	for file in $(find . -name *.md); do
+	echo Suggested schedule
 
+	# Just list a few
+	for file in $(find . -name *.md | tail -3); do
+
+		echo -n "### "
 		basename $file
-	done
+		cat $file
+		echo
+		
+		done
+
+else
+
+	# If not parameters just list the tasks
+	for file in $(find . -name *.md); do basename $file; done
 fi
