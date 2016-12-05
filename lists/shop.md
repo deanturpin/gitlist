@@ -1,0 +1,2 @@
+- hand soap
+- sugar
