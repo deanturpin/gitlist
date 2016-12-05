@@ -1,19 +1,25 @@
 #!/bin/bash
 
 # Check flags
-if [[ $1 == "schedule" ]]; then
+if [[ $# > 0 ]]; then
 
-	echo Suggested schedule
+	if [[ $1 == "schedule" ]]; then
+		echo Suggested schedule
 
-	# Just list a few
-	for file in $(find . -name *.md | tail -3); do
+		# Just list a few
+		for file in $(find . -name *.md | tail -3); do
 
-		echo -n "### "
-		basename $file
-		cat $file
-		echo
-		
+			echo -n "### "
+			basename $file
+			cat $file
+			echo
 		done
+	fi
+
+	if [[ $1 == "delete" ]]; then
+		
+		echo Deleting $2	
+	fi
 
 else
 
