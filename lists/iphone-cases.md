@@ -1,3 +1,6 @@
 - https://grovemade.com/product/walnut-iphone-case/?initial=161
 - upcycled?
 - https://buyslice.co/cart
+- http://getrecover.com/products/skateboard-wood-iphone-6-case
+- https://www.amazon.com/Carved-Recycled-Skateboard-iPhone-Traveler/dp/B00UKFTP92/ref=sr_1_3?ie=UTF8&qid=1481398936&sr=8-3&keywords=Iphone+Recycled+Phone+Cases
+- http://www.zazzle.com/pine_trees_carved_cherry_iphone_6_bumper-256412234154305022
